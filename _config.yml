@@ -1,0 +1,10 @@
+title: Indian Government Farmer Welfare Schemes
+description: Information about various farmer welfare schemes in India
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
